@@ -1,0 +1,24 @@
+{
+  "id": "b679bbb0-659e-478a-af16-14cb0c57f0f4",
+  "id_usuario": "web_user_cvq95008",
+  "fecha": "2025-03-10 20:25:00",
+  "sistema": "MOTOR",
+  "problema": "NO_ARRANCA",
+  "matricula": null,
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": true,
+  "mensajes": [
+    {
+      "mensaje": "ayuda el motor no arranca",
+      "timestamp": "2025-03-10 20:25:00",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas de arranque de motor, verifica lo siguiente:\n\n1. Asegúrate que el suministro de combustible sea adecuado\n2. Verifica que el sistema de ignición esté funcionando correctamente\n3. Comprueba que no haya mensajes de error en el ECAM/EICAS\n4. Revisa el procedimiento de arranque en el manual\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:25:00",
+      "tiempo_respuesta": 0.0018062591552734375,
+      "tipo": "bot"
+    }
+  ]
+}

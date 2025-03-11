@@ -1,0 +1,73 @@
+{
+  "id": "dd7f933b-f984-41c8-9d51-bd0f34071765",
+  "id_usuario": "web_user",
+  "fecha": "2025-03-03 22:08:27",
+  "sistema": "APU",
+  "problema": "NO_FUNCIONA",
+  "matricula": "CC-AKA",
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "falla en el apu",
+      "timestamp": "2025-03-03 22:08:19",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Detecto NO_FUNCIONA en APU. ¿Podrías indicarme la matrícula de la aeronave?",
+      "timestamp": "2025-03-03 22:08:19",
+      "tiempo_respuesta": 0.0032668113708496094,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "si",
+      "timestamp": "2025-03-03 22:08:20",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar la matrícula. Por favor, indícala en formato CC-XXX (ejemplo: CC-AWN).",
+      "timestamp": "2025-03-03 22:08:20",
+      "tiempo_respuesta": 0.0021817684173583984,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "cc-aka",
+      "timestamp": "2025-03-03 22:08:22",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Gracias. ¿Podrías indicarme si hay algún mensaje de error específico para el NO_FUNCIONA en APU de CC-AKA?",
+      "timestamp": "2025-03-03 22:08:22",
+      "tiempo_respuesta": 0.007167816162109375,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:08:24",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Cuándo comenzó a presentarse el problema? (fecha aproximada o vuelo)",
+      "timestamp": "2025-03-03 22:08:24",
+      "tiempo_respuesta": 0.004412412643432617,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "ayer",
+      "timestamp": "2025-03-03 22:08:26",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Se ha intentado alguna acción correctiva hasta el momento?",
+      "timestamp": "2025-03-03 22:08:26",
+      "tiempo_respuesta": 0.0060520172119140625,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "n",
+      "timestamp": "2025-03-03 22:08:27",
+      "tipo": "usuario"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "07ee75a8-0117-41ab-b9a1-8be3034fb585",
+  "id_usuario": "web_user",
+  "fecha": "2025-03-03 22:27:33",
+  "sistema": null,
+  "problema": null,
+  "matricula": null,
+  "es_urgente": true,
+  "derivado_agente": true,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "utgente falla en apu",
+      "timestamp": "2025-03-03 22:27:30",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Detecto NO_FUNCIONA en APU. ¿Podrías indicarme la matrícula de la aeronave?",
+      "timestamp": "2025-03-03 22:27:30",
+      "tiempo_respuesta": 0.004397153854370117,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:27:31",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar la matrícula. Por favor, indícala en formato CC-XXX (ejemplo: CC-AWN).",
+      "timestamp": "2025-03-03 22:27:31",
+      "tiempo_respuesta": 0.004552602767944336,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "urgente",
+      "timestamp": "2025-03-03 22:27:33",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-03 22:27:33",
+      "tiempo_respuesta": 0.0016033649444580078,
+      "tipo": "bot"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3058c2bf-ccbc-4467-a4f6-27350390611e",
+  "id_usuario": "web_user_41oj32w7",
+  "fecha": "2025-03-10 20:39:45",
+  "sistema": "APU",
+  "problema": "NO_ARRANCA",
+  "matricula": null,
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": true,
+  "mensajes": [
+    {
+      "mensaje": "el apu no arranca",
+      "timestamp": "2025-03-10 20:39:45",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas de arranque de APU, verifica lo siguiente:\n\n1. Asegúrate que el interruptor de batería esté en posición ON\n2. Verifica que el nivel de combustible sea adecuado\n3. Comprueba que no haya mensajes de error en el ECAM/EICAS\n4. Intenta un ciclo completo de apagado y encendido\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:39:45",
+      "tiempo_respuesta": 0.0017554759979248047,
+      "tipo": "bot"
+    }
+  ]
+}

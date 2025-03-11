@@ -1,0 +1,106 @@
+{
+  "id": "b0d443e9-ac98-49c8-856b-4639b68b4002",
+  "id_usuario": "web_user_dsl3gpza",
+  "fecha": "2025-03-10 20:22:32",
+  "sistema": "TREN",
+  "problema": "REVISAR",
+  "matricula": "CC-COP",
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "ayuda",
+      "timestamp": "2025-03-10 20:20:16",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "🔍 Bot de Mantenimiento MOC\n\nPuedo ayudarte con:\n- Problemas de arranque en sistemas\n- Fallas de operación\n- Mensajes de error\n- Verificaciones de sistema\n- Consultas de estado\n- Soluciones rápidas para problemas comunes\n\nFormato recomendado:\n\"[Sistema] de [Matrícula] [problema]\"\nEjemplo: \"APU del CC-AWN no arranca\"\n\nComandos disponibles:\n- ayuda: Muestra este mensaje\n- ejemplos: Muestra ejemplos de uso\n- agente: Conecta con un agente humano\n- urgente: Marca tu caso como prioritario\n\n¿En qué puedo ayudarte hoy?",
+      "timestamp": "2025-03-10 20:20:16",
+      "tiempo_respuesta": 2.9325485229492188e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "APU no arranca",
+      "timestamp": "2025-03-10 20:20:24",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas de arranque de APU, verifica lo siguiente:\n\n1. Asegúrate que el interruptor de batería esté en posición ON\n2. Verifica que el nivel de combustible sea adecuado\n3. Comprueba que no haya mensajes de error en el ECAM/EICAS\n4. Intenta un ciclo completo de apagado y encendido\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:20:24",
+      "tiempo_respuesta": 0.001984834671020508,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "gracias",
+      "timestamp": "2025-03-10 20:21:47",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "De nada ¿Hay algo más en lo que pueda asistirte?",
+      "timestamp": "2025-03-10 20:21:47",
+      "tiempo_respuesta": 5.2928924560546875e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "urgente falla en el motor",
+      "timestamp": "2025-03-10 20:21:56",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\nSistema: MOTOR\nProblema: NO_FUNCIONA\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-10 20:21:56",
+      "tiempo_respuesta": 0.01294565200805664,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "ejemplos",
+      "timestamp": "2025-03-10 20:22:13",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "📝 Ejemplos de consultas:\n\n1. Problemas de arranque:\n- \"APU no arranca\"\n- \"El APU del CC-AWN no arranca\"\n- \"Problema de arranque en APU\"\n\n2. Fallas de operación:\n- \"Motor 1 no funciona\"\n- \"Falla en el tren de aterrizaje\"\n- \"Sistema hidráulico inoperativo CC-BAW\"\n\n3. Mensajes de error:\n- \"Error en galley CC-COP\"\n- \"Warning de APU en CC-AWN\"\n- \"Luz de alerta en sistema eléctrico\"\n\n4. Verificaciones:\n- \"Revisar APU CC-BAW\"\n- \"Verificar sistema eléctrico\"\n- \"Check de tren de aterrizaje CC-COP\"\n\n5. Problemas específicos:\n- \"APU overheat\"\n- \"Low oil pressure\"\n- \"Hydraulic low level\"\n- \"Problema con cargo door\"\n\n¿Cuál es tu consulta?",
+      "timestamp": "2025-03-10 20:22:13",
+      "tiempo_respuesta": 2.1696090698242188e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Check de tren de aterrizaje CC-COP",
+      "timestamp": "2025-03-10 20:22:21",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Entendido. Detecto REVISAR en TREN de CC-COP. ¿Podrías indicarme si hay algún mensaje de error específico?",
+      "timestamp": "2025-03-10 20:22:21",
+      "tiempo_respuesta": 0.00128936767578125,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-10 20:22:26",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Cuándo comenzó a presentarse el problema? (fecha aproximada o vuelo)",
+      "timestamp": "2025-03-10 20:22:26",
+      "tiempo_respuesta": 0.0008571147918701172,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "hoy",
+      "timestamp": "2025-03-10 20:22:30",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Se ha intentado alguna acción correctiva hasta el momento?",
+      "timestamp": "2025-03-10 20:22:30",
+      "tiempo_respuesta": 0.0006635189056396484,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-10 20:22:32",
+      "tipo": "usuario"
+    }
+  ]
+}

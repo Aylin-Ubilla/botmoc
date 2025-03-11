@@ -1,0 +1,35 @@
+{
+  "id": "33205b0f-9f37-4b54-a5dc-7245e7169757",
+  "id_usuario": "web_user",
+  "fecha": "2025-03-03 22:41:03",
+  "sistema": null,
+  "problema": null,
+  "matricula": null,
+  "es_urgente": true,
+  "derivado_agente": true,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "ayuda",
+      "timestamp": "2025-03-03 22:41:01",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "🔍 Bot de Mantenimiento MOC\n\nPuedo ayudarte con:\n- Problemas de arranque en sistemas\n- Fallas de operación\n- Mensajes de error\n- Verificaciones de sistema\n- Consultas de estado\n- Soluciones rápidas para problemas comunes\n\nFormato recomendado:\n\"[Sistema] de [Matrícula] [problema]\"\nEjemplo: \"APU del CC-AWN no arranca\"\n\nComandos disponibles:\n- ayuda: Muestra este mensaje\n- ejemplos: Muestra ejemplos de uso\n- agente: Conecta con un agente humano\n- urgente: Marca tu caso como prioritario\n\n¿En qué puedo ayudarte hoy?",
+      "timestamp": "2025-03-03 22:41:01",
+      "tiempo_respuesta": 3.9577484130859375e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "urgente",
+      "timestamp": "2025-03-03 22:41:03",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-03 22:41:03",
+      "tiempo_respuesta": 0.020119190216064453,
+      "tipo": "bot"
+    }
+  ]
+}

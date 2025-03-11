@@ -1,0 +1,35 @@
+{
+  "id": "c44ce4fd-20ae-4629-92c3-7826629e3be1",
+  "id_usuario": "web_user_dsl3gpza",
+  "fecha": "2025-03-10 20:20:24",
+  "sistema": "APU",
+  "problema": "NO_ARRANCA",
+  "matricula": null,
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": true,
+  "mensajes": [
+    {
+      "mensaje": "ayuda",
+      "timestamp": "2025-03-10 20:20:16",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "🔍 Bot de Mantenimiento MOC\n\nPuedo ayudarte con:\n- Problemas de arranque en sistemas\n- Fallas de operación\n- Mensajes de error\n- Verificaciones de sistema\n- Consultas de estado\n- Soluciones rápidas para problemas comunes\n\nFormato recomendado:\n\"[Sistema] de [Matrícula] [problema]\"\nEjemplo: \"APU del CC-AWN no arranca\"\n\nComandos disponibles:\n- ayuda: Muestra este mensaje\n- ejemplos: Muestra ejemplos de uso\n- agente: Conecta con un agente humano\n- urgente: Marca tu caso como prioritario\n\n¿En qué puedo ayudarte hoy?",
+      "timestamp": "2025-03-10 20:20:16",
+      "tiempo_respuesta": 2.9325485229492188e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "APU no arranca",
+      "timestamp": "2025-03-10 20:20:24",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas de arranque de APU, verifica lo siguiente:\n\n1. Asegúrate que el interruptor de batería esté en posición ON\n2. Verifica que el nivel de combustible sea adecuado\n3. Comprueba que no haya mensajes de error en el ECAM/EICAS\n4. Intenta un ciclo completo de apagado y encendido\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:20:24",
+      "tiempo_respuesta": 0.001984834671020508,
+      "tipo": "bot"
+    }
+  ]
+}

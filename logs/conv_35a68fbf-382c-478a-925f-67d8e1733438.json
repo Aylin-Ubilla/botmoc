@@ -1,0 +1,95 @@
+{
+  "id": "35a68fbf-382c-478a-925f-67d8e1733438",
+  "id_usuario": "web_user",
+  "fecha": "2025-03-03 22:14:28",
+  "sistema": "APU",
+  "problema": "NO_FUNCIONA",
+  "matricula": "CC-AKA",
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "urgente falla en motor",
+      "timestamp": "2025-03-03 22:14:11",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\nSistema: MOTOR\nProblema: NO_FUNCIONA\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-03 22:14:11",
+      "tiempo_respuesta": 0.0014216899871826172,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "gracias",
+      "timestamp": "2025-03-03 22:14:14",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Estamos para ayudar ¿Hay algo más en lo que pueda asistirte?",
+      "timestamp": "2025-03-03 22:14:14",
+      "tiempo_respuesta": 3.8623809814453125e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:14:16",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar claramente tu consulta. Para ayudarte mejor, por favor especifica:\n- El sistema afectado (APU, Motor, Tren, etc.)\n- El problema (no arranca, no funciona, error, etc.)\n- La matrícula de la aeronave\n\nEjemplo: 'El APU del CC-AWN no arranca'\nEscribe 'ejemplos' para ver más casos de uso.",
+      "timestamp": "2025-03-03 22:14:16",
+      "tiempo_respuesta": 0.0012841224670410156,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "falla en el apu",
+      "timestamp": "2025-03-03 22:14:19",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Detecto NO_FUNCIONA en APU. ¿Podrías indicarme la matrícula de la aeronave?",
+      "timestamp": "2025-03-03 22:14:19",
+      "tiempo_respuesta": 0.0008921623229980469,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "ccc-aka",
+      "timestamp": "2025-03-03 22:14:23",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Gracias. ¿Podrías indicarme si hay algún mensaje de error específico para el NO_FUNCIONA en APU de CC-AKA?",
+      "timestamp": "2025-03-03 22:14:23",
+      "tiempo_respuesta": 0.0054683685302734375,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:14:25",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Cuándo comenzó a presentarse el problema? (fecha aproximada o vuelo)",
+      "timestamp": "2025-03-03 22:14:25",
+      "tiempo_respuesta": 0.0019044876098632812,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "hoy",
+      "timestamp": "2025-03-03 22:14:27",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Se ha intentado alguna acción correctiva hasta el momento?",
+      "timestamp": "2025-03-03 22:14:27",
+      "tiempo_respuesta": 0.0015027523040771484,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:14:28",
+      "tipo": "usuario"
+    }
+  ]
+}

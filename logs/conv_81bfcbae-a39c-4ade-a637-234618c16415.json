@@ -1,0 +1,24 @@
+{
+  "id": "81bfcbae-a39c-4ade-a637-234618c16415",
+  "id_usuario": "web_user",
+  "fecha": "2025-03-03 22:14:11",
+  "sistema": "MOTOR",
+  "problema": "NO_FUNCIONA",
+  "matricula": null,
+  "es_urgente": true,
+  "derivado_agente": true,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "urgente falla en motor",
+      "timestamp": "2025-03-03 22:14:11",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\nSistema: MOTOR\nProblema: NO_FUNCIONA\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-03 22:14:11",
+      "tiempo_respuesta": 0.0014216899871826172,
+      "tipo": "bot"
+    }
+  ]
+}

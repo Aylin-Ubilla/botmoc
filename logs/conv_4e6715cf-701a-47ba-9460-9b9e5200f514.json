@@ -1,0 +1,106 @@
+{
+  "id": "4e6715cf-701a-47ba-9460-9b9e5200f514",
+  "id_usuario": "web_user",
+  "fecha": "2025-03-03 22:29:55",
+  "sistema": "APU",
+  "problema": "NO_FUNCIONA",
+  "matricula": "CC-AKA",
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "utgente falla en apu",
+      "timestamp": "2025-03-03 22:27:30",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Detecto NO_FUNCIONA en APU. ¿Podrías indicarme la matrícula de la aeronave?",
+      "timestamp": "2025-03-03 22:27:30",
+      "tiempo_respuesta": 0.004397153854370117,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:27:31",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar la matrícula. Por favor, indícala en formato CC-XXX (ejemplo: CC-AWN).",
+      "timestamp": "2025-03-03 22:27:31",
+      "tiempo_respuesta": 0.004552602767944336,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "urgente",
+      "timestamp": "2025-03-03 22:27:33",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-03 22:27:33",
+      "tiempo_respuesta": 0.0016033649444580078,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "ejemplos",
+      "timestamp": "2025-03-03 22:29:12",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "📝 Ejemplos de consultas:\n\n1. Problemas de arranque:\n- \"APU no arranca\"\n- \"El APU del CC-AWN no arranca\"\n- \"Problema de arranque en APU\"\n\n2. Fallas de operación:\n- \"Motor 1 no funciona\"\n- \"Falla en el tren de aterrizaje\"\n- \"Sistema hidráulico inoperativo CC-BAW\"\n\n3. Mensajes de error:\n- \"Error en galley CC-COP\"\n- \"Warning de APU en CC-AWN\"\n- \"Luz de alerta en sistema eléctrico\"\n\n4. Verificaciones:\n- \"Revisar APU CC-BAW\"\n- \"Verificar sistema eléctrico\"\n- \"Check de tren de aterrizaje CC-COP\"\n\n5. Problemas específicos:\n- \"APU overheat\"\n- \"Low oil pressure\"\n- \"Hydraulic low level\"\n- \"Problema con cargo door\"\n\n¿Cuál es tu consulta?",
+      "timestamp": "2025-03-03 22:29:12",
+      "tiempo_respuesta": 6.628036499023438e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Motor 1 no funciona",
+      "timestamp": "2025-03-03 22:29:20",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar la matrícula. Por favor, indícala en formato CC-XXX (ejemplo: CC-AWN).",
+      "timestamp": "2025-03-03 22:29:20",
+      "tiempo_respuesta": 0.008231639862060547,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "CC-AKA",
+      "timestamp": "2025-03-03 22:29:23",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Gracias. ¿Podrías indicarme si hay algún mensaje de error específico para el NO_FUNCIONA en APU de CC-AKA?",
+      "timestamp": "2025-03-03 22:29:23",
+      "tiempo_respuesta": 0.007339954376220703,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:29:25",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Cuándo comenzó a presentarse el problema? (fecha aproximada o vuelo)",
+      "timestamp": "2025-03-03 22:29:25",
+      "tiempo_respuesta": 0.002595186233520508,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "hoy",
+      "timestamp": "2025-03-03 22:29:28",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿Se ha intentado alguna acción correctiva hasta el momento?",
+      "timestamp": "2025-03-03 22:29:28",
+      "tiempo_respuesta": 0.0037505626678466797,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-03 22:29:55",
+      "tipo": "usuario"
+    }
+  ]
+}

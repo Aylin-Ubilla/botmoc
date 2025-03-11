@@ -1,0 +1,124 @@
+{
+  "id": "a9ad9630-e36e-4627-a8ac-e555226b4d69",
+  "id_usuario": "web_user_cbbhrku2",
+  "fecha": "2025-03-10 20:42:15",
+  "sistema": "APU",
+  "problema": "NO_ARRANCA",
+  "matricula": "CC-AWN",
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": true,
+  "mensajes": [
+    {
+      "mensaje": "falla en el apu",
+      "timestamp": "2025-03-10 20:41:30",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Detecto NO_FUNCIONA en APU. ¿Podrías indicarme la matrícula de la aeronave?",
+      "timestamp": "2025-03-10 20:41:30",
+      "tiempo_respuesta": 0.0016434192657470703,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "CC-AKA",
+      "timestamp": "2025-03-10 20:41:34",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Veo que mencionas la aeronave CC-AKA. ¿Qué sistema y problema necesitas reportar?",
+      "timestamp": "2025-03-10 20:41:34",
+      "tiempo_respuesta": 0.001119852066040039,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "APU",
+      "timestamp": "2025-03-10 20:41:39",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Entiendo que mencionas el sistema APU. ¿Qué problema específico estás experimentando?",
+      "timestamp": "2025-03-10 20:41:39",
+      "tiempo_respuesta": 0.0009436607360839844,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "hay una falla",
+      "timestamp": "2025-03-10 20:41:43",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Entiendo que hay un NO_FUNCIONA. ¿En qué sistema específico de la aeronave?",
+      "timestamp": "2025-03-10 20:41:43",
+      "tiempo_respuesta": 0.0007045269012451172,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "apu",
+      "timestamp": "2025-03-10 20:41:45",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Entiendo que mencionas el sistema APU. ¿Qué problema específico estás experimentando?",
+      "timestamp": "2025-03-10 20:41:45",
+      "tiempo_respuesta": 0.0009212493896484375,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "dios",
+      "timestamp": "2025-03-10 20:41:48",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar claramente tu consulta. Para ayudarte mejor, por favor especifica:\n- El sistema afectado (APU, Motor, Tren, etc.)\n- El problema (no arranca, no funciona, error, etc.)\n- La matrícula de la aeronave\n\nEjemplo: 'El APU del CC-AWN no arranca'\nEscribe 'ejemplos' para ver más casos de uso.",
+      "timestamp": "2025-03-10 20:41:48",
+      "tiempo_respuesta": 0.0006210803985595703,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Por favor, responde Sí o No. ¿El problema o tu consulta fue resuelta?",
+      "timestamp": "2025-03-10 20:41:54",
+      "tiempo_respuesta": 7.3909759521484375e-06,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Lamentamos no haber podido resolver tu consulta. ¿Deseas que un agente humano te contacte? Responde 'agente' si es así.",
+      "timestamp": "2025-03-10 20:41:59",
+      "tiempo_respuesta": 0.0032663345336914062,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-10 20:42:04",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿El problema o tu consulta fue resuelta? Responde Sí o No.",
+      "timestamp": "2025-03-10 20:42:04",
+      "tiempo_respuesta": 0.0007069110870361328,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "no",
+      "timestamp": "2025-03-10 20:42:08",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "¿El problema o tu consulta fue resuelta? Responde Sí o No.",
+      "timestamp": "2025-03-10 20:42:08",
+      "tiempo_respuesta": 0.0005915164947509766,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "El APU del CC-AWN no arranca",
+      "timestamp": "2025-03-10 20:42:15",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas de arranque de APU, verifica lo siguiente:\n\n1. Asegúrate que el interruptor de batería esté en posición ON\n2. Verifica que el nivel de combustible sea adecuado\n3. Comprueba que no haya mensajes de error en el ECAM/EICAS\n4. Intenta un ciclo completo de apagado y encendido\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:42:15",
+      "tiempo_respuesta": 0.0011463165283203125,
+      "tipo": "bot"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "12929fd7-ea2d-44cd-8c3d-12b3f678b3da",
+  "id_usuario": "web_user_dsl3gpza",
+  "fecha": "2025-03-10 20:21:56",
+  "sistema": "MOTOR",
+  "problema": "NO_FUNCIONA",
+  "matricula": null,
+  "es_urgente": true,
+  "derivado_agente": true,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "ayuda",
+      "timestamp": "2025-03-10 20:20:16",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "🔍 Bot de Mantenimiento MOC\n\nPuedo ayudarte con:\n- Problemas de arranque en sistemas\n- Fallas de operación\n- Mensajes de error\n- Verificaciones de sistema\n- Consultas de estado\n- Soluciones rápidas para problemas comunes\n\nFormato recomendado:\n\"[Sistema] de [Matrícula] [problema]\"\nEjemplo: \"APU del CC-AWN no arranca\"\n\nComandos disponibles:\n- ayuda: Muestra este mensaje\n- ejemplos: Muestra ejemplos de uso\n- agente: Conecta con un agente humano\n- urgente: Marca tu caso como prioritario\n\n¿En qué puedo ayudarte hoy?",
+      "timestamp": "2025-03-10 20:20:16",
+      "tiempo_respuesta": 2.9325485229492188e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "APU no arranca",
+      "timestamp": "2025-03-10 20:20:24",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas de arranque de APU, verifica lo siguiente:\n\n1. Asegúrate que el interruptor de batería esté en posición ON\n2. Verifica que el nivel de combustible sea adecuado\n3. Comprueba que no haya mensajes de error en el ECAM/EICAS\n4. Intenta un ciclo completo de apagado y encendido\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:20:24",
+      "tiempo_respuesta": 0.001984834671020508,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "gracias",
+      "timestamp": "2025-03-10 20:21:47",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "De nada ¿Hay algo más en lo que pueda asistirte?",
+      "timestamp": "2025-03-10 20:21:47",
+      "tiempo_respuesta": 5.2928924560546875e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "urgente falla en el motor",
+      "timestamp": "2025-03-10 20:21:56",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\nSistema: MOTOR\nProblema: NO_FUNCIONA\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-10 20:21:56",
+      "tiempo_respuesta": 0.01294565200805664,
+      "tipo": "bot"
+    }
+  ]
+}

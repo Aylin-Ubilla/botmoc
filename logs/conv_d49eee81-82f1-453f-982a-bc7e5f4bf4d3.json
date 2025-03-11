@@ -1,0 +1,64 @@
+{
+  "id": "d49eee81-82f1-453f-982a-bc7e5f4bf4d3",
+  "id_usuario": "web_user_rnlfz6gy",
+  "fecha": "2025-03-10 20:38:04",
+  "sistema": null,
+  "problema": null,
+  "matricula": null,
+  "es_urgente": false,
+  "derivado_agente": true,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "falla en apu",
+      "timestamp": "2025-03-10 20:37:43",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Detecto NO_FUNCIONA en APU. ¿Podrías indicarme la matrícula de la aeronave?",
+      "timestamp": "2025-03-10 20:37:43",
+      "tiempo_respuesta": 0.001828908920288086,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Por favor, responde Sí o No. ¿El problema o tu consulta fue resuelta?",
+      "timestamp": "2025-03-10 20:37:49",
+      "tiempo_respuesta": 1.239776611328125e-05,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Lamentamos no haber podido resolver tu consulta. ¿Deseas que un agente humano te contacte? Responde 'agente' si es así.",
+      "timestamp": "2025-03-10 20:37:54",
+      "tiempo_respuesta": 0.00455164909362793,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "si",
+      "timestamp": "2025-03-10 20:37:57",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "No pude identificar la matrícula. Por favor, indícala en formato CC-XXX (ejemplo: CC-AWN).",
+      "timestamp": "2025-03-10 20:37:57",
+      "tiempo_respuesta": 0.0008645057678222656,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "Lamentamos no haber podido resolver tu consulta. ¿Deseas que un agente humano te contacte? Responde 'agente' si es así.",
+      "timestamp": "2025-03-10 20:38:01",
+      "tiempo_respuesta": 0.003050088882446289,
+      "tipo": "bot"
+    },
+    {
+      "mensaje": "agente",
+      "timestamp": "2025-03-10 20:38:04",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Entendido. Estoy transfiriendo tu consulta a un agente humano.\n\nInformación detectada:\n\nUn especialista de mantenimiento se pondrá en contacto contigo pronto.\n\nGracias por tu paciencia.",
+      "timestamp": "2025-03-10 20:38:04",
+      "tiempo_respuesta": 0.0007097721099853516,
+      "tipo": "bot"
+    }
+  ]
+}

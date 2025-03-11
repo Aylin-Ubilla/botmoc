@@ -1,0 +1,24 @@
+{
+  "id": "f313e4f9-d649-4034-97d6-84d2269c5d9b",
+  "id_usuario": "web_user_mcxtvps4",
+  "fecha": "2025-03-10 20:31:54",
+  "sistema": "MOTOR",
+  "problema": "NO_FUNCIONA",
+  "matricula": null,
+  "es_urgente": true,
+  "derivado_agente": true,
+  "respuesta_automatica": false,
+  "mensajes": [
+    {
+      "mensaje": "urgente ayuda falla en el motor",
+      "timestamp": "2025-03-10 20:31:54",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "⚠️ **CASO URGENTE DETECTADO** ⚠️\n\nEstoy transfiriendo tu caso a un agente humano de inmediato.\n\nInformación detectada:\nSistema: MOTOR\nProblema: NO_FUNCIONA\n\nUn especialista de mantenimiento se pondrá en contacto contigo lo antes posible.\n\nPor favor, mantén este canal abierto para recibir asistencia.",
+      "timestamp": "2025-03-10 20:31:54",
+      "tiempo_respuesta": 0.0016849040985107422,
+      "tipo": "bot"
+    }
+  ]
+}

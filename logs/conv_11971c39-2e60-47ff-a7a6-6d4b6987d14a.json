@@ -1,0 +1,24 @@
+{
+  "id": "11971c39-2e60-47ff-a7a6-6d4b6987d14a",
+  "id_usuario": "web_user_frqdj8cf",
+  "fecha": "2025-03-10 20:36:20",
+  "sistema": "TREN",
+  "problema": "NO_FUNCIONA",
+  "matricula": null,
+  "es_urgente": false,
+  "derivado_agente": false,
+  "respuesta_automatica": true,
+  "mensajes": [
+    {
+      "mensaje": "falla tren aterrizaje",
+      "timestamp": "2025-03-10 20:36:20",
+      "tipo": "usuario"
+    },
+    {
+      "mensaje": "Para problemas con el tren de aterrizaje, verifica lo siguiente:\n\n1. Comprueba el sistema hidráulico y nivel de presión\n2. Verifica que no haya obstrucciones mecánicas\n3. Revisa los indicadores de posición del tren\n4. Considera usar el sistema de extensión de emergencia si es necesario\n\nSi el problema persiste, proporciona más detalles para ayudarte mejor.",
+      "timestamp": "2025-03-10 20:36:20",
+      "tiempo_respuesta": 0.0019063949584960938,
+      "tipo": "bot"
+    }
+  ]
+}
